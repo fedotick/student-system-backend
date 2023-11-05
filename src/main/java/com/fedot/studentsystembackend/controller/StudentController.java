@@ -1,7 +1,7 @@
-package com.fedot.studentsystem.controller;
+package com.fedot.studentsystembackend.controller;
 
-import com.fedot.studentsystem.model.Student;
-import com.fedot.studentsystem.service.StudentService;
+import com.fedot.studentsystembackend.model.Student;
+import com.fedot.studentsystembackend.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

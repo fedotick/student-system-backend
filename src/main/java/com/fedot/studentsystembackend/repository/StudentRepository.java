@@ -1,6 +1,6 @@
-package com.fedot.studentsystem.repository;
+package com.fedot.studentsystembackend.repository;
 
-import com.fedot.studentsystem.model.Student;
+import com.fedot.studentsystembackend.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

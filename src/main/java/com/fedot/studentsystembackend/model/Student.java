@@ -1,4 +1,4 @@
-package com.fedot.studentsystem.model;
+package com.fedot.studentsystembackend.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

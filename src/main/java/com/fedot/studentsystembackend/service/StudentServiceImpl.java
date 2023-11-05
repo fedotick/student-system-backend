@@ -1,7 +1,7 @@
-package com.fedot.studentsystem.service;
+package com.fedot.studentsystembackend.service;
 
-import com.fedot.studentsystem.model.Student;
-import com.fedot.studentsystem.repository.StudentRepository;
+import com.fedot.studentsystembackend.model.Student;
+import com.fedot.studentsystembackend.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

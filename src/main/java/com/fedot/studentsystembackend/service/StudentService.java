@@ -1,6 +1,6 @@
-package com.fedot.studentsystem.service;
+package com.fedot.studentsystembackend.service;
 
-import com.fedot.studentsystem.model.Student;
+import com.fedot.studentsystembackend.model.Student;
 
 import java.util.List;
 
